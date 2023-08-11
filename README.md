@@ -12,6 +12,15 @@
 
 A simple, console-based Blackjack game written in Python.
 
+## Installation
+1. Clone the repository:
+```
+git clone https://github.com/j-breedlove/blackjack_cli.git
+```
+2. Navigate to project directory:
+```
+cd blackjack_cli
+```
 ## Features
 
 - Player vs Computer gameplay
